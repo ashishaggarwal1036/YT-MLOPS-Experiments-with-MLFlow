@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cba354e14fc8479bb786fb834de695b8/artifacts
+end_time: 1764588972618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cba354e14fc8479bb786fb834de695b8
+run_name: marvelous-whale-469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764588971453
+status: 4
+tags: []
+user_id: AshishAggarwal

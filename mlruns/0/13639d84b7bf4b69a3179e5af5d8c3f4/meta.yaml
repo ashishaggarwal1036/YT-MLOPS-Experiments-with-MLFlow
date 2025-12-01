@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/13639d84b7bf4b69a3179e5af5d8c3f4/artifacts
+end_time: 1764585765462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13639d84b7bf4b69a3179e5af5d8c3f4
+run_name: polite-wasp-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764585765368
+status: 3
+tags: []
+user_id: AshishAggarwal
