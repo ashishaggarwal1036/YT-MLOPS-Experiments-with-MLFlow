@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/515948938134564246/0c426ef884d64f93b0a80a5a4e8a6481/artifacts
+end_time: 1764666815815
+entry_point_name: ''
+experiment_id: '515948938134564246'
+lifecycle_stage: active
+run_id: 0c426ef884d64f93b0a80a5a4e8a6481
+run_name: awesome-donkey-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764666811696
+status: 3
+tags: []
+user_id: AshishAggarwal

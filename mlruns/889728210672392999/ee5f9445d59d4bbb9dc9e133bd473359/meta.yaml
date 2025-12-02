@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/889728210672392999/ee5f9445d59d4bbb9dc9e133bd473359/artifacts
+end_time: 1764663366325
+entry_point_name: ''
+experiment_id: '889728210672392999'
+lifecycle_stage: active
+run_id: ee5f9445d59d4bbb9dc9e133bd473359
+run_name: unleashed-squid-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764663365918
+status: 3
+tags: []
+user_id: AshishAggarwal
